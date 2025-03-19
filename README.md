@@ -1,0 +1,2 @@
+# YOLO_object_detection_inference_model
+YOLO_object_detection_inference_model
